@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: print a quote using write function ssize_t write(int id, const void *buf, size_t count);
+ * Description: print a quote using write function 
+ * 	ssize_t write(int id, const void *buf, size_t count);
  *
  * Return: 1 (Error)
  */
